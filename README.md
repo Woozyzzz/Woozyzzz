@@ -1,6 +1,10 @@
-### Hi there 👋
+<a href="https://woozyzzz.github.io/cv/dist/">
+  <img width="100%" src="https://woozyzzz.github.io/woozyzzz/assets/images/hi.png">
+</a>
 
 <!--
+### Hi there 👋
+
 **Woozyzzz/Woozyzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
