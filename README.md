@@ -1,4 +1,4 @@
-<a href="https://woozyzzz.github.io/cv/dist/">
+<a href="https://woozyzzz.github.io/cv/dist/" target="_blank">
   <img width="100%" src="https://github.com/Woozyzzz/Woozyzzz/blob/main/assets/images/hi.png">
 </a>
 
